@@ -1,0 +1,12 @@
+{
+"minimumVersion": 1, 
+"packages": [
+{
+"name": "Apocalypse Package", 
+"title": "Apocalypse", 
+"version": "MODPACKVERSION", 
+"location": "https://www.lolnet.co.nz/modpack/Apocalypsemanifest.json", 
+"priority": 1
+}
+]
+}
